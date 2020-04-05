@@ -1,4 +1,4 @@
-# i_Read
+# i Read
 
 This app Fetch all available PDF files in the device starting from route, main options added in the first verion:
 - opened pdf files are added automatically to the #Recent page.
@@ -9,6 +9,93 @@ This app Fetch all available PDF files in the device starting from route, main o
 - add a Book to Favorite list to give the user more control over his/her books 
 - Various THeme color for the modern Neumorphism design.
 - the app Contain a unique Local PDF viewer that shows the number of pages of the file and also the page you are currently at
+
+<h2>Blue Theme </h2>
+
+<div>
+ <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home.png" alt="Snow" width="22%" height="380" hspace="1%">
+ </div>
+ <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+</div>
+
+<h2>Purple Theme </h2>
+
+
+<div>
+  <div class="column">
+    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 1.png" alt="Snow" width="22%" height="380" hspace="1%">
+  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 1.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 1.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 1.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+</div>
+
+<h2>Yellow Theme </h2>
+
+<div>
+  <div class="column">
+    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 2.png" alt="Snow" width="22%" height="380" hspace="1%">
+  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 2.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 2.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 2.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+</div>
+
+<h2>Pink Theme </h2>
+
+
+<div>
+  <div class="column">
+    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 3.png" alt="Snow" width="22%" height="380" hspace="1%">
+  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 3.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 3.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 3.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+</div>
+
+<h2>Grren Theme </h2>
+
+<div>
+  <div class="column">
+    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 4.png" alt="Snow" width="22%" height="380" hspace="1%">
+  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 4.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 4.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 4.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+</div>
+
+<h2>Grey Theme </h2>
+
+<div>
+  <div class="column">
+    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 5.png" alt="Snow" width="22%" height="380" hspace="1%">
+  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 5.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 5.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+  <div class="column">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 5.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+</div>
+
 
 ## Getting Started
 
