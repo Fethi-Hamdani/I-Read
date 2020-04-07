@@ -14,14 +14,14 @@ This app Fetch all available PDF files in the device starting from route, main o
 
 <div>
  <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home.png" alt="Snow" width="22%" height="380" hspace="1%">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home.png" alt="Snow" width="20%" height="380" hspace="1%">
  </div>
  <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
  <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
  <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
 </div>
 
 <h2>Purple Theme </h2>
@@ -43,14 +43,14 @@ This app Fetch all available PDF files in the device starting from route, main o
 
 <div>
   <div class="column">
-    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 2.png" alt="Snow" width="22%" height="380" hspace="1%">
+    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 2.png" alt="Snow" width="20%" height="380" hspace="1%">
   </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 2.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 2.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 2.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 2.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 2.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 2.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
 </div>
 
 <h2>Pink Theme </h2>
@@ -58,42 +58,42 @@ This app Fetch all available PDF files in the device starting from route, main o
 
 <div>
   <div class="column">
-    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 3.png" alt="Snow" width="22%" height="380" hspace="1%">
+    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 3.png" alt="Snow" width="20%" height="380" hspace="1%">
   </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 3.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 3.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 3.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 3.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 3.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 3.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
 </div>
 
 <h2>Grren Theme </h2>
 
 <div>
   <div class="column">
-    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 4.png" alt="Snow" width="22%" height="380" hspace="1%">
+    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 4.png" alt="Snow" width="20%" height="380" hspace="1%">
   </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 4.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 4.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 4.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 4.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 4.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 4.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
 </div>
 
 <h2>Grey Theme </h2>
 
 <div>
   <div class="column">
-    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 5.png" alt="Snow" width="22%" height="380" hspace="1%">
+    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 5.png" alt="Snow" width="20%" height="380" hspace="1%">
   </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 5.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 5.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 5.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 5.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 5.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 5.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
 </div>
 
 
