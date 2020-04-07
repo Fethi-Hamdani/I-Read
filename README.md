@@ -13,15 +13,10 @@ This app Fetch all available PDF files in the device starting from route, main o
 <h2>Blue Theme </h2>
 
 <div>
- <div class="column">
  <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home.png" alt="Snow" width="22%" height="380" hspace="1%">
- </div>
- <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
- <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
- <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite.png" alt="Snow" width="22%" height="380" hspace="1%">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent.png" alt="Snow" width="22%" height="380" hspace="1%">
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings.png" alt="Snow" width="22%" height="380" hspace="1%">
 </div>
 
 <h2>Purple Theme </h2>
