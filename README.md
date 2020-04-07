@@ -29,14 +29,14 @@ This app Fetch all available PDF files in the device starting from route, main o
 
 <div>
   <div class="column">
-    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 1.png" alt="Snow" width="22%" height="380" hspace="1%">
+    <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Home – 1.png" alt="Snow" width="20%" height="380" hspace="1%">
   </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 1.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Favorite – 1.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 1.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Recent – 1.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
   <div class="column">
- <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 1.png" alt="Snow" width="22%" height="380" hspace="1%">  </div>
+ <img src="https://github.com/Fethi1/I-Read/blob/master/screenshots/Settings – 1.png" alt="Snow" width="20%" height="380" hspace="1%">  </div>
 </div>
 
 <h2>Yellow Theme </h2>
