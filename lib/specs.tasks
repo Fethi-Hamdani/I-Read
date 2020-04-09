@@ -1,0 +1,50 @@
+// Tasks Guidelines 
+ctrl + enter  create a new Task or nested Task
+alt + d       Mark task as done
+alt + c       Cancel Task
+You can use following pre-existing tags to mark tasks @critical @high @low @today
+
+I Read App:
+
+Front - end (UI):
+        ✔ add multiple theme using neumorphism design @done (4/6/2020, 7:24:44 PM)
+        ✔ add a file to favorite @low @done (4/6/2020, 7:20:43 PM)
+        ✔ add search function in all tabs except Setting @high @done (4/6/2020, 7:20:42 PM)
+        ✔ add loading Widget in every tab while retriving and orgnizing books @low @done (4/6/2020, 7:20:41 PM)
+        ✘ FIX for PDF viewer takes too long to load pages @critical @cancelled (4/7/2020, 3:13:22 PM)
+        ✔ PDF displaying dependecies tested: @done (4/7/2020, 3:13:52 PM)
+            ✘ flutter_full_pdf_viewer @cancelled (4/6/2020, 7:38:03 PM)
+            ✔ native_pdf_view @done (4/6/2020, 8:08:03 PM)
+            ✘ flutter_pdf_viewer @cancelled (4/7/2020, 3:13:34 PM)
+                ✘ Night mode test and take a look at other options as well @cancelled (4/7/2020, 3:13:37 PM)
+            ✘ flutter_plugin_pdf_viewer @cancelled (4/7/2020, 11:27:45 AM)
+            ✘ pdf_viewer_plugin @cancelled (4/7/2020, 11:38:25 AM)
+        ☐ add more Options for the user in the option tb @high 
+            ✔ pdf Scrooling AXIS (with animated instructions if posssible) @done (4/9/2020, 12:21:36 PM)
+        ✔ add Contact links for my Socials @done (4/6/2020, 7:47:33 PM) 
+        ✘ Add Scrool bar package for books @cancelled (4/9/2020, 1:03:35 PM)
+        ✘ add books order option @cancelled (4/9/2020, 1:03:39 PM)
+        ☐ Introduction instructions for the user (show only once)
+
+Back - end :
+        ✔ Fetsh and retrive all availabel PDF files in device @done (4/6/2020, 7:07:48 PM)
+        ✔ recive the pdf files a list of type File @high @done (4/6/2020, 7:20:35 PM)
+        ✔ Create a Databse to save Favorite, Recent and last page opened of each files @critical @done (4/6/2020, 7:20:33 PM)
+            ✔ save file's path to the Database to compare it later on with the exisitng files in device @done (4/6/2020, 7:20:32 PM)
+            ✔ save Recent files in a new Table to keep the order of last opened file @done (4/6/2020, 7:20:29 PM)
+        ✔ Delete file from both storage and Database @done (4/6/2020, 7:20:30 PM)
+        ✔ Rename file in storage and Database (also in the second table if the file was opened recently) @done (4/6/2020, 7:20:28 PM)
+        ✔ Last page update each time the page changed in the pdf Viewer @done (4/6/2020, 7:20:14 PM)
+        ✔ add a file to recent automatically when opened @high @done (4/6/2020, 7:20:23 PM)
+        ✔ share pdf file using device's default functionalities @done (4/6/2020, 7:20:24 PM)
+        ✔ delete files that doesn't exist in Device from both databse tables @done (4/6/2020, 7:20:24 PM)
+        ✔ Save theme to shared prefrences @critical @done (4/9/2020, 1:03:46 PM)
+        ☐ use Bloc instead of setstate for STATE managment and project structuring @high 
+        ✔ orgnize all variables and files @low @done (4/9/2020, 1:03:55 PM)
+
+Build - apk :
+        ✔ Create an icon for the App @high @done (4/7/2020, 1:27:44 PM)
+        ✔ Give a digital signature to the app @critical @done (4/7/2020, 1:27:41 PM)
+        ✘ add some configuartion to build.gradle based on PDF viewer package @cancelled (4/8/2020, 8:01:13 PM)
+
+

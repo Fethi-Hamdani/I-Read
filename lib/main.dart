@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'Block/Theme_overall.dart';
-import 'Block/block.dart';
-import 'UI/home_page.dart';
+import 'Back-end/block.dart';
+import 'Front-end/home_page.dart';
 
 class SimpleBlocDelegate extends BlocDelegate {
   @override
@@ -25,20 +24,25 @@ class SimpleBlocDelegate extends BlocDelegate {
 }
 
 void main() {
+  //precacheImage(provider, context);
   BlocSupervisor.delegate = SimpleBlocDelegate();
   runApp(App());
 }
 
 class App extends StatelessWidget {
+
+
   @override
   Widget build(BuildContext context) {
+    precacheImage(AssetImage("assets/my_logo.png"), context);
     return BlocProvider(
       create: (_) => ThemeBloc(),
       child: BlocBuilder<ThemeBloc, Theme_overall>(
         builder: (_, theme) {
+         // context.bloc<ThemeBloc>().intilize();
           return MaterialApp(
             title: 'Flutter Demo',
-            home: CounterPage(theme.small,theme.medium,theme.large),
+            home: CounterPage(theme),
             theme: theme.theme,
           );
         },
@@ -46,4 +50,3 @@ class App extends StatelessWidget {
     );
   }
 }
-
